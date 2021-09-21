@@ -1,7 +1,4 @@
-// Arup Guha
-// 6/26/07
-//Modified and updated by Tanvir Ahmed 5/26/2020
-// Example of how to implement a queue with an array.
+
 #include <stdio.h>
 #include <stdlib.h>
 
