@@ -1,6 +1,4 @@
-// Arup Guha
-// 1/28/08
-// Example for COP 3502
+
 
 // Dynamic memory allocation for an array of strings.
 // In this implementation, we dynamically allocate an array of arrays.
