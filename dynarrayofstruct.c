@@ -1,6 +1,4 @@
-// Arup Guha
-// 5/27/09 - Shown in COP 3502
-// Short example to show a function dynamically allocating an array of structs.
+
 
 #include <stdio.h>
 #include <time.h>
