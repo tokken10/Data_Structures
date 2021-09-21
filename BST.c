@@ -1,6 +1,4 @@
-// Arup Guha
-// 3/25/04, with code added to do delete on 3/30/04
-// COP 3502 Lecture: Some Binary Tree Functions
+
 #include <stdio.h>
 
 struct tree_node {
